@@ -22,3 +22,7 @@ codealpha_tracked.mp4
 .idea/
 .vscode/
 *.log
+
+# stray test images
+bus.jpg
+*.jpg
