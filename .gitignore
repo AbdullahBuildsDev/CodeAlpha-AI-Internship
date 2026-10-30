@@ -26,3 +26,8 @@ codealpha_tracked.mp4
 # stray test images
 bus.jpg
 *.jpg
+
+# partial downloads / model weights
+*.part
+.yolov8*
+yolov8*.pt
